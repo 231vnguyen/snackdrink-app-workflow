@@ -17,5 +17,5 @@
 
 
 
-#TAMUhack X Hackathon: Hackathon Description
-#About the Hackathon
+# TAMUhack X Hackathon: Hackathon Description
+# About the Hackathon

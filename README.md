@@ -12,6 +12,23 @@ TAMUhack X is the ten-year anniversary of TAMU Hackathon. Hackathon is an event 
 
   American Airlines Challenge - Create a solution for the airline industry, be it passenger experience, employee experience, or operational efficiencies.
 
+# Inspiration
+As engineers, one of the primary aspects of our jobs is to maximize efficiency within business, in order to create a better environment for the consumers, the workers, and the organization as a whole. With our new snack/drink workflow application, a happier and more stable environment is created within American Airlines.
+# What it does
+This application streamlines the process of providing complimentary snacks and drinks for both the flight attendants and passengers. In addition, the application provides supply chain convivence between workers and corporate. With the introduction of this web development, it will allow frequent fliers and flight attendants the convivence of obtaining the snack accommodations quicker and easier.
+# How we built it
+Through the primary web development languages, we first developed a front-end display of the menu, then we gave the menu the ability to have user interaction for simple tasks, like specifying the quantity of a certain item. The team then designed a checkout area that doubled as a confirmation of the order and a gateway to store the inputs into different data types so that they can be exported to another file. Finally, the team made an application to receive the data from the original file and gave the new application the ability to discard data when it was no longer needed.
+# Challenges we ran into
+One of the main challenges the group ran into was trying to find a specific platform to work on and what languages to use. With so many options and ideas at our disposal, it was a tough decision to decide how to create our software.
+# Accomplishments that we're proud of
+Going into this project, we loved the idea of this app, the only problem was the app was going to require a lot of front-end development, and the entire team had very little to no experience in this skill type. Although it took a lot of learning while building, the team did an amazing job and built the front end like some experienced pros!
+# What we learned
+Designing and coding is almost always a learning experience, and even when things seem to be easy, there are often still a lot of challenges to be dealt with. The silver lining in this is the fact that we will never get too good to learn, and one thing the whole team learned within the 24 hours of the hackathon is even when things seem impossible, communication, teamwork, and hard work can conquer almost any challenge.
+# What's next for Snack/Drink Workflow App
+We believe this could be a serious advancement in the software world, and if we continue innovating and improving certain aspects, like creating a large back-end data base, we could make a serious impact on the airline industry and American Airlines.
+
+
+
 # App Showcase
 
 <img width="949" alt="tamuhack1" src="https://github.com/231vnguyen/snackdrink-app-workflow/assets/81172229/91bd4e44-ce97-4a91-924c-bac5c6b29e0a">

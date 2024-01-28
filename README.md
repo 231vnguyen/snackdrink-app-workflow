@@ -1,5 +1,6 @@
 # snackdrink-app-workflow
 
+<img width="306" alt="image" src="https://github.com/231vnguyen/snackdrink-app-workflow/assets/81172229/33dbef49-c8f5-4b74-ae28-a7a859e74391">
 
 
 
